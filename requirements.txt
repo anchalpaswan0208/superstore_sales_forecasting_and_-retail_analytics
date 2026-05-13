@@ -1,0 +1,7 @@
+numpy
+pandas
+Faker
+scikit-learn
+matplotlib
+seaborn
+ipykernel
